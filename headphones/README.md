@@ -14,9 +14,8 @@ The design is based on a Figma prototype that includes:
 - Interactive elements and hover effects
 - Mobile-responsive layout that adapts at 480px breakpoint
 
-**Figma Design**: [Access the original design file](https://www.figma.com/design/T76Pggf7NNXnO6DP93vLlA/a5366bbd595c643993665e2a28909370a7e12c66?node-id=0-1&p=f&t=qqSgTrGfaiOjbX9N-0)
+**Figma Design**: (https://www.figma.com/design/T76Pggf7NNXnO6DP93vLlA/a5366bbd595c643993665e2a28909370a7e12c66?node-id=0-1&p=f&t=qqSgTrGfaiOjbX9N-0)
 
-> **Note**: Create a Figma account and duplicate the project to your drafts to access all design specifications and assets.
 
 ## 🚀 Features
 
