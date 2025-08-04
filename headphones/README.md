@@ -2,11 +2,11 @@
 
 A modern, responsive landing page for headphones built with HTML and CSS, designed to showcase premium audio products with an engaging user experience.
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a fully responsive headphones landing page based on a professional Figma design. The webpage features a modern design with smooth interactions, mobile-first responsive design, and accessibility considerations.
 
-## 🎨 Design
+## Design
 
 The design is based on a Figma prototype that includes:
 - Hero section with compelling headphones imagery
@@ -17,7 +17,7 @@ The design is based on a Figma prototype that includes:
 **Figma Design**: (https://www.figma.com/design/T76Pggf7NNXnO6DP93vLlA/a5366bbd595c643993665e2a28909370a7e12c66?node-id=0-1&p=f&t=qqSgTrGfaiOjbX9N-0)
 
 
-## 🚀 Features
+## Features
 
 ### Responsive Design
 - **Desktop-first approach** with mobile optimization
@@ -36,7 +36,7 @@ The design is based on a Figma prototype that includes:
 - **Secondary font**: Spin Cycle OT
 - **Responsive font sizing** that scales appropriately across devices
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: Semantic markup structure
 - **CSS3**: Modern styling with Flexbox/Grid
