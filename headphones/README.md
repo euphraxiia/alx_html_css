@@ -43,4 +43,4 @@ The design is based on a Figma prototype that includes:
 - **Responsive Design**: Mobile-first approach
 - **Cross-browser compatibility**: Tested across major browsers
 
-## 📁 Project Structure
+## Project Structure
