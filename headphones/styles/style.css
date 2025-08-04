@@ -1,0 +1,73 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Container */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+a:hover,
+a:active {
+    color: #FF6565;
+}
+
+/* Buttons */
+button {
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    border: none;
+    background: none;
+}
+
+button:hover,
+button:active {
+    opacity: 0.9;
+}
+
+/* Header */
+header {
+    /*
+}
+
+/* Hero Section */
+.hero {
+    
+}
+
+/* Features Section */
+.features {
+    /* Features styles will be added based on Figma design */
+}
+
+/* Footer */
+footer {
+    /* Footer styles will be added based on Figma design */
+}
+
+/* Mobile Responsive - 480px breakpoint */
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+    
+    /* Mobile-specific styles will be added */
+}
