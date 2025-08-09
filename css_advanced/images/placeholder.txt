@@ -1,0 +1,2 @@
+This is a placeholder file to create the images directory.
+You can delete this file after uploading actual images.
